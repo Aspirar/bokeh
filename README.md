@@ -1,1 +1,3 @@
 # bokeh
+
+Animated bokeh circles.
